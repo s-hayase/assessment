@@ -67,6 +67,7 @@ const answers = [
   '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
 ];
 
+
 /*
 @param{string}ユーザーの名前
 @return{string}診断結果
